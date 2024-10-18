@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    opacity: 1;
+}
+
+#titulo-principal {
+    font-size: 36px;
+    font-weight: 700;
+    font-style:italic;
+    text-align:justify;
+    text-transform: capitalize;
+    color: blue;
+    text-shadow: 2px 2px #888888;
+}
+
+.subtitulo {
+    font-size: 28px;
+    font-weight: normal;
+    font-style: italic;
+    color: green;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.artigo-paragrafo {
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    font-stretch: expanded;
+    text-align: justify;
+    text-indent: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    color: black;
+}
+
+.citacao {
+    font-size: 20px;
+    font-style: italic;
+    color: gray;
+    text-align: right;
+    line-height: 1.5;
+}
