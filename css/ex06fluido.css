@@ -1,0 +1,11 @@
+.container {
+    width: 100%;
+  }
+  .coluna {
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin: 1%;
+    background-color: #ccc;
+  }
+  

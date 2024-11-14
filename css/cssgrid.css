@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.container{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr) repeat(2, 2fr);
+    grid-template-rows: repeat(5, 200px);
+    gap: 20px
+}
+
+.item1{
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+
+.item2{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+.item3{
+    background-color: rgb(243, 134, 134);
+    text-align: center;
+    padding: 20px;
+}

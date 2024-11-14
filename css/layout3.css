@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    width: 1580px;  
+    padding: 50px;  
+    background-color: grey;
+}
+
+#div-pai{
+    width: 1000px;
+    height: 450px;
+    background-color: white;
+}
+
+.esquerda{
+    float: left;
+}
+
+.direita{
+    float: right;
+}
+
+#div1{
+    width: 1000px;
+    height: 215px;
+    background-color: white;
+    margin-bottom: 20px;
+    font-size: 72pt;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#div2{
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    float: left; /*flutua a direita */
+    margin-left: 20px;
+    font-size: 72pt;
+    font-weight: bold;
+    box-sizing: border-box;
+
+}
+
+#div3{
+    width: 1000px;
+    height: 215px;
+    background-color: white;
+    font-size: 72pt;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#div-rodape-pai{
+    width: 1540px;
+    height: 260px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    background-color: white;
+}
+
+#div4{
+    width: 480px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    font-size: 72pt;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#div5{
+    width: 480px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    font-size: 72pt;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#div6{
+    width: 480px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    margin-left: 20px;
+    font-size: 72pt;
+    font-weight: bold;
+    box-sizing: border-box;
+}
